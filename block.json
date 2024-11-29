@@ -1,0 +1,19 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "verdure/history-tree",
+    "version": "1.0.0",
+    "title": "History Tree",
+    "description": "History Tree block is used to create the tree like structure design.",
+    "icon": "welcome-widgets-menus",
+    "category": "vdplug",
+    "keywords": [
+        "history-tree history tree"
+    ],
+    "attributes": {
+        
+    },
+    "textdomain": "vdplug",
+    "editorScript": "file:./index.js",
+    "style": "file:./style-index.css"
+}
